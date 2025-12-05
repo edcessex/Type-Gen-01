@@ -1,0 +1,5 @@
+{
+  "name": "FluxType: Abstract Generator",
+  "description": "A generative typography tool using SVG filters and AI to create experimental, distorted, and liquid text effects.",
+  "requestFramePermissions": []
+}
